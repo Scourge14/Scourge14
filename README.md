@@ -2,17 +2,34 @@
 
 # 👋 Merhaba, ben Emre Can Karacaağaçlı
 
-### Teknik Analist | Bankacılık Teknolojileri | API & Sistem Analizi | Web Arayüzleri
+### Teknik Analist | Bankacılık Teknolojileri | API & Sistem Analizi | Frontend Odaklı Ürün Prototipleri
 
-Bankacılık teknolojileri alanında; API analizleri, sistem entegrasyonları, backend servis akışları ve teknik dokümantasyon süreçleri üzerine çalışıyorum.
+Bankacılık teknolojileri alanında; **API analizleri, sistem entegrasyonları, backend servis akışları ve teknik dokümantasyon** süreçleri üzerine çalışıyorum.
 
-İş ihtiyaçlarını teknik gereksinimlere dönüştürerek, yazılım ekipleri ile iş birimleri arasında güçlü ve anlaşılır bir köprü kurmayı hedefliyorum.
+İş ihtiyaçlarını teknik gereksinimlere dönüştürerek, yazılım ekipleri ile iş birimleri arasında anlaşılır, sürdürülebilir ve uygulanabilir çözümler oluşturmayı hedefliyorum.
+
+<br/>
+
+<a href="https://github.com/Scourge14">
+  <img src="https://img.shields.io/badge/GitHub-Scourge14-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/emre-can-karacaa%C4%9Fa%C3%A7l%C4%B1-650945264/">
+  <img src="https://img.shields.io/badge/LinkedIn-Emre%20Can%20Karacaa%C4%9Fa%C3%A7l%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Odaklandığım Alanlar
+## 🧭 Profesyonel Odak Noktam
+
+Teknik analiz tarafında yalnızca gereksinimleri dokümante etmeye değil; sistemin nasıl çalıştığını anlamaya, servisler arası akışı netleştirmeye ve geliştirilebilir çözümler üretmeye odaklanıyorum.
+
+Çalışmalarımda iş ihtiyacını, sistem davranışını, entegrasyon noktalarını ve kullanıcı deneyimini birlikte değerlendirerek daha anlaşılır ve sürdürülebilir teknik çıktılar üretmeyi önemsiyorum.
+
+---
+
+## 🚀 Uzmanlaştığım Alanlar
 
 - API ve sistem analizi
 - Backend servis ve entegrasyon akışlarının incelenmesi
@@ -20,11 +37,11 @@ Bankacılık teknolojileri alanında; API analizleri, sistem entegrasyonları, b
 - Frontend - backend iletişim yapılarının analiz edilmesi
 - Teknik dokümantasyon ve analiz standartlarının oluşturulması
 - Bankacılık sistemleri ve operasyonel süreçlerin değerlendirilmesi
-- Kullanıcı arayüzü odaklı web projeleri geliştirilmesi
+- Kullanıcı arayüzü odaklı web projeleri ve ürün prototipleri
 
 ---
 
-## 🛠️ Kullandığım Araçlar & Teknolojiler
+## 🛠️ Araçlar & Teknolojiler
 
 <p>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
@@ -32,59 +49,47 @@ Bankacılık teknolojileri alanında; API analizleri, sistem entegrasyonları, b
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## 💼 Profesyonel Bakış Açım
+## 📌 GitHub’da Üzerinde Çalıştığım Proje Alanları
 
-Analiz tarafında yalnızca gereksinimleri dokümante etmeye değil; sistemin nasıl çalıştığını anlamaya, servisler arası akışı netleştirmeye ve sürdürülebilir teknik çözümler üretmeye odaklanıyorum.
-
-Teknik analiz sürecinde; iş ihtiyacını, sistem davranışını, entegrasyon noktalarını ve kullanıcı deneyimini birlikte değerlendirerek daha anlaşılır ve geliştirilebilir çözümler ortaya çıkarmayı önemsiyorum.
-
-GitHub tarafında ise bu bakış açımı; kullanıcı arayüzleri, web projeleri, deneysel tasarımlar ve küçük ölçekli ürün fikirleriyle destekliyorum.
-
----
-
-## 📌 Öne Çıkan Proje Alanlarım
-
-- Operasyon ve süreç yönetimi arayüzleri
-- Web tabanlı kullanıcı deneyimi tasarımları
-- Mobil uyumlu landing page çalışmaları
-- Dashboard ve kontrol paneli yapıları
-- Deneysel UI / UX projeleri
-- API destekli iş akışı fikirleri
-- Frontend odaklı ürün prototipleri
+| Alan | Açıklama |
+|---|---|
+| 🧩 Kontrol Paneli Arayüzleri | Operasyonel süreçleri daha okunabilir hale getiren dashboard ve panel yapıları |
+| 🌐 Web Arayüzleri | Modern, mobil uyumlu ve kullanıcı deneyimi odaklı frontend çalışmalar |
+| 🔮 Deneysel Ürün Fikirleri | Tarot, filtre, koleksiyon ve konsept bazlı küçük ölçekli web projeleri |
+| 🔗 API Destekli Akışlar | Sistem davranışını ve entegrasyon mantığını merkeze alan proje fikirleri |
+| 🎨 UI / UX Denemeleri | Görsel dil, kullanıcı akışı ve deneyim odaklı arayüz prototipleri |
 
 ---
 
-## 🌱 Üzerinde Geliştiğim Konular
+## 🌱 Geliştirmeye Odaklandığım Konular
 
 - Daha temiz ve sürdürülebilir analiz dokümantasyonu
 - API akışlarının daha anlaşılır modellenmesi
 - Kullanıcı deneyimi odaklı arayüz geliştirme
 - Teknik ekipler ve iş birimleri arasında daha etkili iletişim
 - Modern frontend yapıları ve proje organizasyonu
+- Ürün fikrini hızlı prototipe dönüştürme
 
 ---
 
-## 🌐 Bağlantılar
+## 🧪 Öne Çıkan Proje Yaklaşımım
 
-<p>
-  <a href="https://github.com/Scourge14">
-    <img src="https://img.shields.io/badge/GitHub-Scourge14-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/emre-can-karacaa%C4%9Fa%C3%A7l%C4%B1-650945264/">
-    <img src="https://img.shields.io/badge/LinkedIn-Emre%20Can%20Karacaa%C4%9Fa%C3%A7l%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+GitHub tarafında teknik analiz bakış açımı; kullanıcı arayüzleri, web projeleri, deneysel tasarımlar ve küçük ölçekli ürün fikirleriyle destekliyorum.
+
+Amacım yalnızca çalışan arayüzler üretmek değil; aynı zamanda bir ihtiyacı, bir süreci veya bir deneyimi daha anlaşılır hale getiren yapılar oluşturmak.
 
 ---
 
 <div align="center">
 
-> Analiz, sistem akışı ve kullanıcı deneyimi arasında güçlü bir bağ kurmaya çalışıyorum.
+### “Analiz, sistem akışı ve kullanıcı deneyimi arasında güçlü bir bağ kurmaya çalışıyorum.”
 
 </div>
