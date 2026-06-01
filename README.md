@@ -116,16 +116,6 @@ Amacım yalnızca çalışan arayüzler üretmek değil; aynı zamanda bir ihtiy
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Scourge14&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scourge14&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🌐 Bağlantılar
 
