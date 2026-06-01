@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Emre%20Can%20Karacaa%C4%9Fa%C3%A7l%C4%B1&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Analyst%20%7C%20Banking%20Technologies%20%7C%20API%20%26%20System%20Analysis&descSize=15&descAlignY=58" />
-
 <div align="center">
 
 # 👋 Merhaba, ben Emre Can Karacaağaçlı
