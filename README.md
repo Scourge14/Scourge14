@@ -49,21 +49,10 @@ GitHub tarafında ise teknik analiz bakış açımı; kullanıcı arayüzleri, w
 - Deneysel UI / UX projeleri
 - API destekli iş akışı fikirleri
 
----
-
-## 📊 GitHub İstatistikleri
-
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scourge14&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Scourge14&layout=compact&theme=github_dark&hide_border=true)
-
----
+------
 
 ## 🌐 Bağlantılar
 
 [![GitHub](https://img.shields.io/badge/GitHub-Scourge14-181717?style=flat&logo=github)](https://github.com/Scourge14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre%20Can%20Karacaağaçlı-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-can-karacaa%C4%9Fa%C3%A7l%C4%B1-650945264/)
 
----
-
-> Analiz, sistem akışı ve kullanıcı deneyimi arasında güçlü bir bağ kurmaya çalışıyorum.
