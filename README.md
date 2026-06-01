@@ -149,7 +149,6 @@ Amacım yalnızca çalışan arayüzler üretmek değil; aynı zamanda bir ihtiy
 
 <div align="center">
 
-### “Analiz, sistem akışı ve kullanıcı deneyimi arasında güçlü bir bağ kurmaya çalışıyorum.”
 
 </div>
 
