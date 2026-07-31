@@ -1,15 +1,7 @@
-<!-- Scourge14 · Reliable GitHub Profile README -->
+<!-- Scourge14 · Minimal GitHub Profile -->
 
 <p align="center">
   <img width="100%" src="./profile-banner.svg" alt="Emre Can Karacaağaçlı — Technical Analyst" />
-</p>
-
-<p align="center">
-  <strong>Technical Analyst · Banking Technologies · API & System Analysis</strong>
-</p>
-
-<p align="center">
-  İş ihtiyaçlarını teknik netliğe, sistem akışlarını uygulanabilir çözümlere dönüştürüyorum.
 </p>
 
 <p align="center">
@@ -17,87 +9,22 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/emre-can-karacaa%C4%9Fa%C3%A7l%C4%B1-650945264/"><kbd>LINKEDIN ↗</kbd></a>
   &nbsp;
-  <a href="https://github.com/Scourge14?tab=repositories"><kbd>TÜM PROJELER ↗</kbd></a>
+  <a href="https://github.com/Scourge14?tab=repositories"><kbd>PROJELER ↗</kbd></a>
 </p>
 
-Profil
+Hakkımda
 
-Bankacılık teknolojileri alanında; gereksinim analizi, REST API entegrasyonları, servis akışları, teknik dokümantasyon ve test senaryoları üzerine çalışıyorum. Teknik analiz bakış açımı modern frontend teknolojileriyle birleştirerek fikirleri çalışan ve test edilebilir prototiplere dönüştürüyorum.
+Teknik analist olarak iş ihtiyaçlarını servis davranışlarına, API sözleşmelerine, test senaryolarına ve uygulanabilir ürün akışlarına dönüştürüyorum. Bankacılık teknolojilerindeki analiz deneyimimi frontend bilgimle birleştirerek fikirleri yalnızca dokümante etmekle kalmıyor, gerektiğinde çalışan prototiplerle görünür hale getiriyorum.
 
-Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve özel sistemlerde yürütülüyor. Bu profil; paylaşılabilir ürün prototiplerimi, arayüz çalışmalarımı ve teknik yaklaşımımı bir araya getiriyor.
+API & Entegrasyon — Endpoint yapıları, request/response modelleri, iş kuralları ve hata akışları
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 · ANALYZE</h3>
-      <p>İş ihtiyacını, sistem davranışını ve servis bağımlılıklarını netleştiririm.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>02 · MODEL</h3>
-      <p>API sözleşmelerini, iş kurallarını, hata akışlarını ve test senaryolarını modellerim.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>03 · PROTOTYPE</h3>
-      <p>Teknik çıktıyı anlaşılır, test edilebilir ve kullanıcı odaklı prototipe dönüştürürüm.</p>
-    </td>
-  </tr>
-</table>
+Dokümantasyon & Test — Use case, kabul kriterleri, UAT ve regresyon senaryoları
 
-Sistem Yaklaşımım
+Ürün Prototipleme — Dashboard, mobil uyumlu web arayüzü ve hızlı ürün denemeleri
 
-flowchart LR
-    A["İş ihtiyacı"] --> B["Sistem analizi"]
-    B --> C["API ve entegrasyon"]
-    C --> D["Test senaryoları"]
-    D --> E["Kullanılabilir prototip"]
+Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve özel sistemlerde yürütülüyor. Burada paylaşılabilir prototiplerimi ve teknik yaklaşımımı sergiliyorum.
 
-Yetkinlik Haritası
-
-Alan
-
-Ürettiğim teknik çıktı
-
-API & Sistem Analizi
-
-Endpoint, request/response, iş kuralı, hata senaryosu ve servis bağımlılığı analizi
-
-Teknik Dokümantasyon
-
-Use case, akış diyagramı, entegrasyon notları, kabul kriterleri ve ortak teknik dil
-
-Test & Doğrulama
-
-Fonksiyonel test, regresyon, UAT senaryoları ve uçtan uca akış kontrolü
-
-Ürün Prototipleme
-
-Mobil uyumlu web arayüzleri, dashboard yapıları ve çalışan ürün fikirleri
-
-Araçlar & Teknolojiler
-
-<p align="center">
-  <code>Azure DevOps</code>
-  <code>Postman</code>
-  <code>Swagger</code>
-  <code>REST API</code>
-  <code>JSON</code>
-  <code>SQL Server</code>
-  <code>UAT</code>
-  <code>Regression</code>
-</p>
-
-<p align="center">
-  <code>Flutter</code>
-  <code>Dart</code>
-  <code>React</code>
-  <code>TypeScript</code>
-  <code>JavaScript</code>
-  <code>HTML</code>
-  <code>CSS</code>
-  <code>GitHub Pages</code>
-</p>
-
-Seçili Projeler
+Seçili Çalışmalar
 
 <table>
   <tr>
@@ -110,7 +37,7 @@ Seçili Projeler
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Scourge14/ChawaiiArcana">ChawaiiArcana</a></h3>
       <p>Backend gerektirmeden çalışan, mobil uyumlu ve veri odaklı tarot deneyimi.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code></p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code></p>
       <a href="https://github.com/Scourge14/ChawaiiArcana"><kbd>REPOYU AÇ ↗</kbd></a>
     </td>
   </tr>
@@ -130,18 +57,12 @@ Seçili Projeler
   </tr>
 </table>
 
-2026 Odağım
+Çalışma Alanım
 
-API akışlarını daha görünür ve test edilebilir hale getiren analiz çıktıları
-
-Release sonrası kritik servis akışları için regresyon senaryoları
-
-Teknik ekiplerle iş birimleri arasındaki iletişimi sadeleştiren araçlar
-
-Modern frontend yapılarıyla hızlı ve kullanıcı odaklı ürün prototipleri
+Analiz — Requirement Analysis · API Design · Business Rules · Use Case · UATSistemler — REST · JSON · SQL Server · Azure DevOps · Postman · SwaggerÜrün — Flutter · React · TypeScript · Responsive UI · GitHub Pages
 
 <p align="center">
-  <strong>Bir iş ihtiyacını birlikte teknik netliğe dönüştürelim.</strong>
+  <strong>Teknik netlik, sürdürülebilir akışlar ve kullanılabilir ürünler.</strong>
 </p>
 
 <p align="center">
