@@ -1,140 +1,130 @@
+<!-- Premium GitHub Profile · Scourge14 -->
+
 <div align="center">
 
-# 👋 Merhaba, ben Emre Can Karacaağaçlı
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:13233F,100:C6A15B&height=230&section=header&text=Emre%20Can%20Karacaa%C4%9Fa%C3%A7l%C4%B1&fontSize=36&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Technical%20Analyst%20%7C%20Banking%20Technologies%20%7C%20API%20%26%20System%20Analysis&descAlignY=56&descSize=17" alt="Emre Can Karacaağaçlı — Technical Analyst" />
 
-### 🧩 Teknik Analist · 🏦 Bankacılık Teknolojileri · 🔗 API & Sistem Analizi · 🎨 Frontend Odaklı Ürün Prototipleri
-
-**İş ihtiyaçlarını teknik gereksinimlere dönüştüren,  
-sistem akışlarını analiz eden ve kullanıcı odaklı arayüz prototipleri geliştiren bir teknik analistim.**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3300&pause=900&color=C6A15B&center=true&vCenter=true&width=760&lines=Turning+business+needs+into+technical+clarity;API+%E2%80%A2+Systems+%E2%80%A2+Banking+%E2%80%A2+Product+Prototypes" alt="Technical focus" />
+</a>
 
 <br/>
 
-Bankacılık teknolojileri alanında; **API analizleri, sistem entegrasyonları, backend servis akışları ve teknik dokümantasyon** süreçleri üzerine çalışıyorum.
 
-<br/>
-
-<a href="https://github.com/Scourge14">
-  <img src="https://img.shields.io/badge/GitHub-Scourge14-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/emre-can-karacaa%C4%9Fa%C3%A7l%C4%B1-650945264/">
-  <img src="https://img.shields.io/badge/LinkedIn-Emre%20Can%20Karacaa%C4%9Fa%C3%A7l%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Scourge14&label=Profil%20Görüntülenme&color=0e75b6&style=for-the-badge" />
 
 </div>
 
----
+Profil
 
-## 🧭 Profesyonel Odak Noktam
+Bankacılık teknolojileri alanında; gereksinim analizi, REST API entegrasyonları, servis akışları, teknik dokümantasyon ve test senaryoları üzerine çalışıyorum. Teknik analiz bakış açımı modern frontend teknolojileriyle birleştirerek fikirleri hızlıca çalışan ve test edilebilir prototiplere dönüştürüyorum.
 
-Teknik analiz tarafında yalnızca gereksinimleri dokümante etmeye değil; sistemin **nasıl çalıştığını anlamaya**, servisler arası akışı **netleştirmeye** ve geliştirilebilir çözümler üretmeye odaklanıyorum.
-
-Çalışmalarımda; iş ihtiyacını, sistem davranışını, entegrasyon noktalarını ve kullanıcı deneyimini birlikte değerlendirerek daha **anlaşılır, sürdürülebilir ve uygulanabilir** teknik çıktılar üretmeyi önemsiyorum.
-
----
-
-## 🚀 Uzmanlaştığım Alanlar
+Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve özel sistemlerde yürütülüyor. Bu profil; paylaşılabilir ürün prototiplerimi, arayüz çalışmalarımı ve teknik yaklaşımımı bir araya getiriyor.
 
 <table>
   <tr>
-    <td>🔗 <b>API & Sistem Analizi</b></td>
-    <td>Servis akışları, endpoint yapıları, entegrasyon noktaları ve sistem davranışlarının analiz edilmesi</td>
-  </tr>
-  <tr>
-    <td>🏦 <b>Bankacılık Teknolojileri</b></td>
-    <td>Bankacılık sistemleri, operasyonel süreçler ve iş birimi ihtiyaçlarının teknik çözümlere dönüştürülmesi</td>
-  </tr>
-  <tr>
-    <td>🧩 <b>Teknik Analiz</b></td>
-    <td>İş gereksinimlerinin anlaşılır, geliştirilebilir ve sürdürülebilir teknik çıktılara dönüştürülmesi</td>
-  </tr>
-  <tr>
-    <td>📄 <b>Teknik Dokümantasyon</b></td>
-    <td>Analiz dokümanları, servis akışları, süreç tanımları ve ekipler arası ortak teknik dilin oluşturulması</td>
-  </tr>
-  <tr>
-    <td>🎨 <b>Frontend Prototipleri</b></td>
-    <td>Kullanıcı deneyimi odaklı web arayüzleri, dashboard yapıları ve ürün fikirlerinin prototiplenmesi</td>
+    <td width="33%" valign="top">
+      <h3>01 · ANALYZE</h3>
+      <p>İş ihtiyacını, sistem davranışını ve servis bağımlılıklarını netleştiririm.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 · MODEL</h3>
+      <p>API sözleşmelerini, iş kurallarını, hata akışlarını ve test senaryolarını modellerim.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · PROTOTYPE</h3>
+      <p>Teknik çıktıyı anlaşılır, test edilebilir ve kullanıcı odaklı prototipe dönüştürürüm.</p>
+    </td>
   </tr>
 </table>
 
----
+Sistem Yaklaşımım
 
-## 🛠️ Araçlar & Teknolojiler
+flowchart LR
+    A["İş ihtiyacı"] --> B["Sistem analizi"]
+    B --> C["API ve entegrasyon"]
+    C --> D["Test senaryoları"]
+    D --> E["Kullanılabilir prototip"]
+
+Yetkinlik Haritası
+
+Alan
+
+Ürettiğim teknik çıktı
+
+API & Sistem Analizi
+
+Endpoint, request/response, iş kuralı, hata senaryosu ve servis bağımlılığı analizi
+
+Teknik Dokümantasyon
+
+Use case, akış diyagramı, entegrasyon notları, kabul kriterleri ve ortak teknik dil
+
+Test & Doğrulama
+
+Fonksiyonel test, regresyon, UAT senaryoları ve uçtan uca akış kontrolü
+
+Ürün Prototipleme
+
+Mobil uyumlu web arayüzleri, dashboard yapıları ve çalışan ürün fikirleri
+
+Araçlar & Teknolojiler
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-111111?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,git,github,postman&perline=10" alt="Frontend and development tools" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
 
 </div>
 
----
-
-## 📌 GitHub’da Üzerinde Çalıştığım Proje Alanları
-
-| Alan | Açıklama |
-|---|---|
-| 🧩 **Kontrol Paneli Arayüzleri** | Operasyonel süreçleri daha okunabilir hale getiren dashboard ve panel yapıları |
-| 🌐 **Web Arayüzleri** | Modern, mobil uyumlu ve kullanıcı deneyimi odaklı frontend çalışmalar |
-| 🔮 **Deneysel Ürün Fikirleri** | Tarot, filtre, koleksiyon ve konsept bazlı küçük ölçekli web projeleri |
-| 🔗 **API Destekli Akışlar** | Sistem davranışını ve entegrasyon mantığını merkeze alan proje fikirleri |
-| 🎨 **UI / UX Denemeleri** | Görsel dil, kullanıcı akışı ve deneyim odaklı arayüz prototipleri |
-| ⚡ **Hızlı Prototipleme** | Fikirleri kısa sürede çalışır arayüzlere dönüştürme yaklaşımı |
-
----
-
-## 🌱 Geliştirmeye Odaklandığım Konular
-
-- 📄 Daha temiz ve sürdürülebilir analiz dokümantasyonu  
-- 🔗 API akışlarının daha anlaşılır modellenmesi  
-- 🎨 Kullanıcı deneyimi odaklı arayüz geliştirme  
-- 🤝 Teknik ekipler ve iş birimleri arasında daha etkili iletişim  
-- ⚙️ Modern frontend yapıları ve proje organizasyonu  
-- 🚀 Ürün fikrini hızlı prototipe dönüştürme  
-
----
-
-## 🧪 Öne Çıkan Proje Yaklaşımım
-
-GitHub tarafında teknik analiz bakış açımı; kullanıcı arayüzleri, web projeleri, deneysel tasarımlar ve küçük ölçekli ürün fikirleriyle destekliyorum.
-
-Amacım yalnızca çalışan arayüzler üretmek değil; aynı zamanda bir ihtiyacı, bir süreci veya bir deneyimi daha **anlaşılır, kullanılabilir ve geliştirilebilir** hale getiren yapılar oluşturmak.
-
----
-
-
-## 🌐 Bağlantılar
+Seçili Projeler
 
 <div align="center">
 
-<a href="https://github.com/Scourge14">
-  <img src="https://img.shields.io/badge/GitHub-Scourge14-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/Scourge14/Scourge14WebSite">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Scourge14&repo=Scourge14WebSite&bg_color=0D1117&title_color=C6A15B&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="Scourge14WebSite" />
 </a>
-<a href="https://www.linkedin.com/in/emre-can-karacaa%C4%9Fa%C3%A7l%C4%B1-650945264/">
-  <img src="https://img.shields.io/badge/LinkedIn-Emre%20Can%20Karacaa%C4%9Fa%C3%A7l%C4%B1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/Scourge14/ChawaiiArcana">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Scourge14&repo=ChawaiiArcana&bg_color=0D1117&title_color=C6A15B&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="ChawaiiArcana" />
+</a>
+
+<a href="https://github.com/Scourge14/WW-Collections">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Scourge14&repo=WW-Collections&bg_color=0D1117&title_color=C6A15B&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="WW Collections" />
+</a>
+<a href="https://github.com/Scourge14/CoffeeWhells">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Scourge14&repo=CoffeeWhells&bg_color=0D1117&title_color=C6A15B&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="CoffeeWhells" />
 </a>
 
 </div>
 
----
+<p align="center">
+  <sub>Ürün prototipleri · Mobil uyumlu arayüzler · Tarayıcı tabanlı araçlar · Teknik analiz yaklaşımı</sub>
+</p>
+
+2026 Odağım
+
+API akışlarını daha görünür ve test edilebilir hale getiren analiz çıktıları
+
+Release sonrası kritik servis akışları için regresyon senaryoları
+
+Teknik ekiplerle iş birimleri arasındaki iletişimi sadeleştiren araçlar
+
+Modern frontend yapılarıyla hızlı ve kullanıcı odaklı ürün prototipleri
+
+<details>
+  <summary><b>GitHub aktivite görünümünü aç</b></summary>
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Scourge14&bg_color=0D1117&color=C9D1D9&line=C6A15B&point=58A6FF&area=true&hide_border=true" alt="Scourge14 GitHub activity graph" />
+</details>
 
 <div align="center">
 
+Bir iş ihtiyacını birlikte teknik netliğe dönüştürelim.
+
+Portfolyo · LinkedIn · Tüm Projeler
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C6A15B,45:13233F,100:0B1220&height=120&section=footer" alt="Footer" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" />
