@@ -1,7 +1,7 @@
 <!-- Scourge14 · Reliable GitHub Profile README -->
 
 <p align="center">
-  <img width="100%" src="./assets/profile-banner.svg" alt="Emre Can Karacaağaçlı — Technical Analyst" />
+  <img width="100%" src="./profile-banner.svg" alt="Emre Can Karacaağaçlı — Technical Analyst" />
 </p>
 
 <p align="center">
@@ -20,13 +20,11 @@
   <a href="https://github.com/Scourge14?tab=repositories"><kbd>TÜM PROJELER ↗</kbd></a>
 </p>
 
----
+Profil
 
-## Profil
+Bankacılık teknolojileri alanında; gereksinim analizi, REST API entegrasyonları, servis akışları, teknik dokümantasyon ve test senaryoları üzerine çalışıyorum. Teknik analiz bakış açımı modern frontend teknolojileriyle birleştirerek fikirleri çalışan ve test edilebilir prototiplere dönüştürüyorum.
 
-Bankacılık teknolojileri alanında; **gereksinim analizi, REST API entegrasyonları, servis akışları, teknik dokümantasyon ve test senaryoları** üzerine çalışıyorum. Teknik analiz bakış açımı modern frontend teknolojileriyle birleştirerek fikirleri çalışan ve test edilebilir prototiplere dönüştürüyorum.
-
-> Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve özel sistemlerde yürütülüyor. Bu profil; paylaşılabilir ürün prototiplerimi, arayüz çalışmalarımı ve teknik yaklaşımımı bir araya getiriyor.
+Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve özel sistemlerde yürütülüyor. Bu profil; paylaşılabilir ürün prototiplerimi, arayüz çalışmalarımı ve teknik yaklaşımımı bir araya getiriyor.
 
 <table>
   <tr>
@@ -45,26 +43,37 @@ Bankacılık teknolojileri alanında; **gereksinim analizi, REST API entegrasyon
   </tr>
 </table>
 
-## Sistem Yaklaşımım
+Sistem Yaklaşımım
 
-```mermaid
 flowchart LR
     A["İş ihtiyacı"] --> B["Sistem analizi"]
     B --> C["API ve entegrasyon"]
     C --> D["Test senaryoları"]
     D --> E["Kullanılabilir prototip"]
-```
 
-## Yetkinlik Haritası
+Yetkinlik Haritası
 
-| Alan | Ürettiğim teknik çıktı |
-| --- | --- |
-| **API & Sistem Analizi** | Endpoint, request/response, iş kuralı, hata senaryosu ve servis bağımlılığı analizi |
-| **Teknik Dokümantasyon** | Use case, akış diyagramı, entegrasyon notları, kabul kriterleri ve ortak teknik dil |
-| **Test & Doğrulama** | Fonksiyonel test, regresyon, UAT senaryoları ve uçtan uca akış kontrolü |
-| **Ürün Prototipleme** | Mobil uyumlu web arayüzleri, dashboard yapıları ve çalışan ürün fikirleri |
+Alan
 
-## Araçlar & Teknolojiler
+Ürettiğim teknik çıktı
+
+API & Sistem Analizi
+
+Endpoint, request/response, iş kuralı, hata senaryosu ve servis bağımlılığı analizi
+
+Teknik Dokümantasyon
+
+Use case, akış diyagramı, entegrasyon notları, kabul kriterleri ve ortak teknik dil
+
+Test & Doğrulama
+
+Fonksiyonel test, regresyon, UAT senaryoları ve uçtan uca akış kontrolü
+
+Ürün Prototipleme
+
+Mobil uyumlu web arayüzleri, dashboard yapıları ve çalışan ürün fikirleri
+
+Araçlar & Teknolojiler
 
 <p align="center">
   <code>Azure DevOps</code>
@@ -88,7 +97,7 @@ flowchart LR
   <code>GitHub Pages</code>
 </p>
 
-## Seçili Projeler
+Seçili Projeler
 
 <table>
   <tr>
@@ -121,14 +130,15 @@ flowchart LR
   </tr>
 </table>
 
-## 2026 Odağım
+2026 Odağım
 
-- API akışlarını daha görünür ve test edilebilir hale getiren analiz çıktıları
-- Release sonrası kritik servis akışları için regresyon senaryoları
-- Teknik ekiplerle iş birimleri arasındaki iletişimi sadeleştiren araçlar
-- Modern frontend yapılarıyla hızlı ve kullanıcı odaklı ürün prototipleri
+API akışlarını daha görünür ve test edilebilir hale getiren analiz çıktıları
 
----
+Release sonrası kritik servis akışları için regresyon senaryoları
+
+Teknik ekiplerle iş birimleri arasındaki iletişimi sadeleştiren araçlar
+
+Modern frontend yapılarıyla hızlı ve kullanıcı odaklı ürün prototipleri
 
 <p align="center">
   <strong>Bir iş ihtiyacını birlikte teknik netliğe dönüştürelim.</strong>
