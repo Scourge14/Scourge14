@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Emre Can Karacaağaçlı — Technical Analyst</title>
+  <desc id="desc">Premium navy and gold GitHub profile banner for banking technology, API and system analysis.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B12"/>
+      <stop offset="0.58" stop-color="#0D1B2E"/>
+      <stop offset="1" stop-color="#162B45"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B98A3E"/>
+      <stop offset="0.5" stop-color="#E3C477"/>
+      <stop offset="1" stop-color="#A8742C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8EA4BF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <ellipse cx="980" cy="142" rx="310" ry="230" fill="url(#glow)"/>
+  <rect x="0" y="0" width="8" height="300" rx="4" fill="url(#gold)"/>
+
+  <g transform="translate(64 58)">
+    <text x="0" y="22" fill="#D9B866" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3.6">TECHNICAL ANALYST</text>
+    <text x="0" y="82" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="43" font-weight="700" letter-spacing="-1">Emre Can Karacaağaçlı</text>
+    <text x="0" y="120" fill="#A9B8CA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Banking Technologies · API &amp; System Analysis</text>
+
+    <g transform="translate(0 151)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+      <rect width="138" height="34" rx="17" fill="#14243A" stroke="#35506E"/>
+      <text x="69" y="22" text-anchor="middle" fill="#DCE7F3">API ANALYSIS</text>
+
+      <rect x="150" width="164" height="34" rx="17" fill="#14243A" stroke="#35506E"/>
+      <text x="232" y="22" text-anchor="middle" fill="#DCE7F3">SYSTEM FLOWS</text>
+
+      <rect x="326" width="176" height="34" rx="17" fill="#382C19" stroke="#8C6A30"/>
+      <text x="414" y="22" text-anchor="middle" fill="#E3C477">PRODUCT PROTOTYPES</text>
+    </g>
+  </g>
+
+  <g transform="translate(905 30)" font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <path d="M36 92H112M140 92H216M126 106V163" fill="none" stroke="#5B7390" stroke-width="2" stroke-dasharray="6 7"/>
+
+    <g filter="url(#softGlow)">
+      <circle cx="22" cy="92" r="14" fill="#D9B866"/>
+      <circle cx="126" cy="92" r="14" fill="#4D8DDA"/>
+      <circle cx="230" cy="92" r="14" fill="#D9B866"/>
+      <circle cx="126" cy="177" r="14" fill="#4D8DDA"/>
+    </g>
+
+    <text x="22" y="56" fill="#DCE7F3" font-size="13" font-weight="700">NEED</text>
+    <text x="126" y="56" fill="#DCE7F3" font-size="13" font-weight="700">API</text>
+    <text x="230" y="56" fill="#DCE7F3" font-size="13" font-weight="700">SYSTEM</text>
+    <text x="126" y="219" fill="#DCE7F3" font-size="13" font-weight="700">PRODUCT</text>
+  </g>
+
+  <text x="1138" y="280" text-anchor="end" fill="#62758C" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">SC14 / BUILDING CLARITY</text>
+</svg>

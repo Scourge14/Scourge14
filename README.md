@@ -1,24 +1,32 @@
-<!-- Premium GitHub Profile · Scourge14 -->
+<!-- Scourge14 · Reliable GitHub Profile README -->
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="./assets/profile-banner.svg" alt="Emre Can Karacaağaçlı — Technical Analyst" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:13233F,100:C6A15B&height=230&section=header&text=Emre%20Can%20Karacaa%C4%9Fa%C3%A7l%C4%B1&fontSize=36&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Technical%20Analyst%20%7C%20Banking%20Technologies%20%7C%20API%20%26%20System%20Analysis&descAlignY=56&descSize=17" alt="Emre Can Karacaağaçlı — Technical Analyst" />
+<p align="center">
+  <strong>Technical Analyst · Banking Technologies · API & System Analysis</strong>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3300&pause=900&color=C6A15B&center=true&vCenter=true&width=760&lines=Turning+business+needs+into+technical+clarity;API+%E2%80%A2+Systems+%E2%80%A2+Banking+%E2%80%A2+Product+Prototypes" alt="Technical focus" />
-</a>
+<p align="center">
+  İş ihtiyaçlarını teknik netliğe, sistem akışlarını uygulanabilir çözümlere dönüştürüyorum.
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://scourge14.github.io/Scourge14WebSite/"><kbd>PORTFOLYO ↗</kbd></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/emre-can-karacaa%C4%9Fa%C3%A7l%C4%B1-650945264/"><kbd>LINKEDIN ↗</kbd></a>
+  &nbsp;
+  <a href="https://github.com/Scourge14?tab=repositories"><kbd>TÜM PROJELER ↗</kbd></a>
+</p>
 
+---
 
+## Profil
 
-</div>
+Bankacılık teknolojileri alanında; **gereksinim analizi, REST API entegrasyonları, servis akışları, teknik dokümantasyon ve test senaryoları** üzerine çalışıyorum. Teknik analiz bakış açımı modern frontend teknolojileriyle birleştirerek fikirleri çalışan ve test edilebilir prototiplere dönüştürüyorum.
 
-Profil
-
-Bankacılık teknolojileri alanında; gereksinim analizi, REST API entegrasyonları, servis akışları, teknik dokümantasyon ve test senaryoları üzerine çalışıyorum. Teknik analiz bakış açımı modern frontend teknolojileriyle birleştirerek fikirleri hızlıca çalışan ve test edilebilir prototiplere dönüştürüyorum.
-
-Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve özel sistemlerde yürütülüyor. Bu profil; paylaşılabilir ürün prototiplerimi, arayüz çalışmalarımı ve teknik yaklaşımımı bir araya getiriyor.
+> Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve özel sistemlerde yürütülüyor. Bu profil; paylaşılabilir ürün prototiplerimi, arayüz çalışmalarımı ve teknik yaklaşımımı bir araya getiriyor.
 
 <table>
   <tr>
@@ -37,94 +45,99 @@ Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve 
   </tr>
 </table>
 
-Sistem Yaklaşımım
+## Sistem Yaklaşımım
 
+```mermaid
 flowchart LR
     A["İş ihtiyacı"] --> B["Sistem analizi"]
     B --> C["API ve entegrasyon"]
     C --> D["Test senaryoları"]
     D --> E["Kullanılabilir prototip"]
+```
 
-Yetkinlik Haritası
+## Yetkinlik Haritası
 
-Alan
+| Alan | Ürettiğim teknik çıktı |
+| --- | --- |
+| **API & Sistem Analizi** | Endpoint, request/response, iş kuralı, hata senaryosu ve servis bağımlılığı analizi |
+| **Teknik Dokümantasyon** | Use case, akış diyagramı, entegrasyon notları, kabul kriterleri ve ortak teknik dil |
+| **Test & Doğrulama** | Fonksiyonel test, regresyon, UAT senaryoları ve uçtan uca akış kontrolü |
+| **Ürün Prototipleme** | Mobil uyumlu web arayüzleri, dashboard yapıları ve çalışan ürün fikirleri |
 
-Ürettiğim teknik çıktı
-
-API & Sistem Analizi
-
-Endpoint, request/response, iş kuralı, hata senaryosu ve servis bağımlılığı analizi
-
-Teknik Dokümantasyon
-
-Use case, akış diyagramı, entegrasyon notları, kabul kriterleri ve ortak teknik dil
-
-Test & Doğrulama
-
-Fonksiyonel test, regresyon, UAT senaryoları ve uçtan uca akış kontrolü
-
-Ürün Prototipleme
-
-Mobil uyumlu web arayüzleri, dashboard yapıları ve çalışan ürün fikirleri
-
-Araçlar & Teknolojiler
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,git,github,postman&perline=10" alt="Frontend and development tools" />
-
-<br/><br/>
-
-
-
-</div>
-
-Seçili Projeler
-
-<div align="center">
-
-<a href="https://github.com/Scourge14/Scourge14WebSite">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Scourge14&repo=Scourge14WebSite&bg_color=0D1117&title_color=C6A15B&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="Scourge14WebSite" />
-</a>
-<a href="https://github.com/Scourge14/ChawaiiArcana">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Scourge14&repo=ChawaiiArcana&bg_color=0D1117&title_color=C6A15B&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="ChawaiiArcana" />
-</a>
-
-<a href="https://github.com/Scourge14/WW-Collections">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Scourge14&repo=WW-Collections&bg_color=0D1117&title_color=C6A15B&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="WW Collections" />
-</a>
-<a href="https://github.com/Scourge14/CoffeeWhells">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Scourge14&repo=CoffeeWhells&bg_color=0D1117&title_color=C6A15B&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="CoffeeWhells" />
-</a>
-
-</div>
+## Araçlar & Teknolojiler
 
 <p align="center">
-  <sub>Ürün prototipleri · Mobil uyumlu arayüzler · Tarayıcı tabanlı araçlar · Teknik analiz yaklaşımı</sub>
+  <code>Azure DevOps</code>
+  <code>Postman</code>
+  <code>Swagger</code>
+  <code>REST API</code>
+  <code>JSON</code>
+  <code>SQL Server</code>
+  <code>UAT</code>
+  <code>Regression</code>
 </p>
 
-2026 Odağım
+<p align="center">
+  <code>Flutter</code>
+  <code>Dart</code>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>JavaScript</code>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>GitHub Pages</code>
+</p>
 
-API akışlarını daha görünür ve test edilebilir hale getiren analiz çıktıları
+## Seçili Projeler
 
-Release sonrası kritik servis akışları için regresyon senaryoları
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Scourge14/Scourge14WebSite">Scourge14WebSite</a></h3>
+      <p>Teknik analiz ve bankacılık teknolojileri odağındaki kişisel portfolyo.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>GitHub Pages</code></p>
+      <a href="https://scourge14.github.io/Scourge14WebSite/"><kbd>CANLI DEMO ↗</kbd></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Scourge14/ChawaiiArcana">ChawaiiArcana</a></h3>
+      <p>Backend gerektirmeden çalışan, mobil uyumlu ve veri odaklı tarot deneyimi.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind</code></p>
+      <a href="https://github.com/Scourge14/ChawaiiArcana"><kbd>REPOYU AÇ ↗</kbd></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Scourge14/WW-Collections">WW Collections</a></h3>
+      <p>Fotoğraf filtrelerini tarayıcıda deneyip PNG çıktısı üreten hafif araç.</p>
+      <p><code>JavaScript</code> <code>Browser APIs</code> <code>HTML/CSS</code></p>
+      <a href="https://github.com/Scourge14/WW-Collections"><kbd>REPOYU AÇ ↗</kbd></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Scourge14/CoffeeWhells">CoffeeWhells</a></h3>
+      <p>Kahve markaları için modern ve responsive landing page prototipi.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/Scourge14/CoffeeWhells"><kbd>REPOYU AÇ ↗</kbd></a>
+    </td>
+  </tr>
+</table>
 
-Teknik ekiplerle iş birimleri arasındaki iletişimi sadeleştiren araçlar
+## 2026 Odağım
 
-Modern frontend yapılarıyla hızlı ve kullanıcı odaklı ürün prototipleri
+- API akışlarını daha görünür ve test edilebilir hale getiren analiz çıktıları
+- Release sonrası kritik servis akışları için regresyon senaryoları
+- Teknik ekiplerle iş birimleri arasındaki iletişimi sadeleştiren araçlar
+- Modern frontend yapılarıyla hızlı ve kullanıcı odaklı ürün prototipleri
 
-<details>
-  <summary><b>GitHub aktivite görünümünü aç</b></summary>
-  <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Scourge14&bg_color=0D1117&color=C9D1D9&line=C6A15B&point=58A6FF&area=true&hide_border=true" alt="Scourge14 GitHub activity graph" />
-</details>
+---
 
-<div align="center">
+<p align="center">
+  <strong>Bir iş ihtiyacını birlikte teknik netliğe dönüştürelim.</strong>
+</p>
 
-Bir iş ihtiyacını birlikte teknik netliğe dönüştürelim.
-
-Portfolyo · LinkedIn · Tüm Projeler
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C6A15B,45:13233F,100:0B1220&height=120&section=footer" alt="Footer" />
-
-</div>
+<p align="center">
+  <a href="https://scourge14.github.io/Scourge14WebSite/">Portfolyo</a>
+  ·
+  <a href="https://www.linkedin.com/in/emre-can-karacaa%C4%9Fa%C3%A7l%C4%B1-650945264/">LinkedIn</a>
+  ·
+  <a href="https://github.com/Scourge14?tab=repositories">Tüm Projeler</a>
+</p>
