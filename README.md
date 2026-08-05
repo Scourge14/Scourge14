@@ -68,8 +68,6 @@ Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Swagger-173647?style=flat-square&logo=swagger&logoColor=85EA2D" alt="Swagger" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <p align="center">
@@ -83,7 +81,6 @@ Profesyonel çalışmalarımın önemli bölümü bankacılık ortamlarında ve 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 <p align="center">
